@@ -133,3 +133,12 @@ p {
 @media (prefers-reduced-motion: reduce) {
   .intro { display: none; }
 }
+/* Custom cursors */
+body {
+  cursor: url("../images/cursor.svg") 12 12, auto;
+}
+
+.button,
+.link {
+  cursor: url("../images/cursor-hover.svg") 16 16, pointer;
+}
