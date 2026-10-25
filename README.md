@@ -1,2 +1,2 @@
-# healthcare-prototype
+# pawara-prototype
 
