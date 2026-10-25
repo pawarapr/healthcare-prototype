@@ -1,0 +1,3 @@
+.button { cursor: pointer; }   /* pointing hand */
+h1 { cursor: help; }           /* arrow with a question mark */
+.card { cursor: grab; }        /* open hand */
